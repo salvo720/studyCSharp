@@ -1,0 +1,15 @@
+D:\Ampps\www\studyCSharp\studyCSharp\bin\Debug\net6.0\studyCSharp.exe
+D:\Ampps\www\studyCSharp\studyCSharp\bin\Debug\net6.0\studyCSharp.deps.json
+D:\Ampps\www\studyCSharp\studyCSharp\bin\Debug\net6.0\studyCSharp.runtimeconfig.json
+D:\Ampps\www\studyCSharp\studyCSharp\bin\Debug\net6.0\studyCSharp.dll
+D:\Ampps\www\studyCSharp\studyCSharp\bin\Debug\net6.0\studyCSharp.pdb
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.csproj.AssemblyReference.cache
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.AssemblyInfoInputs.cache
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.AssemblyInfo.cs
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.csproj.CoreCompileInputs.cache
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.dll
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\refint\studyCSharp.dll
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.pdb
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\studyCSharp.genruntimeconfig.cache
+D:\Ampps\www\studyCSharp\studyCSharp\obj\Debug\net6.0\ref\studyCSharp.dll
