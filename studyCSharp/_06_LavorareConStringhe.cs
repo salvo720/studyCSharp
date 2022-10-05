@@ -40,41 +40,41 @@ namespace _06_LavorareConStringhe // Note: actual namespace depends on the proje
 
             //metodi : possiamo eseguire dei metodi sulle stringhe e sono 
 
-                //1) ToUpper : modifica il testo tutto in maiuscolo 
+            //1) ToUpper : modifica il testo tutto in maiuscolo 
 
-                    string testoUpper = nome.ToUpper();
-                    Console.WriteLine("testoUpper :", testoUpper + "\n");
+                string testoUpper = nome.ToUpper();
+                Console.WriteLine("testoUpper :", testoUpper + "\n");
 
-                //2) ToLower :
+            //2) ToLower :
 
-                    string testoLower = nome.ToLower();
-                    Console.WriteLine("testoUpper :", testoLower + "\n");
+                string testoLower = nome.ToLower();
+                Console.WriteLine("testoUpper :", testoLower + "\n");
 
-                //3) Lenght : Lenght ritorna la lunghezza della stringa ricorda che e un numero
+            //3) Lenght : Lenght ritorna la lunghezza della stringa ricorda che e un numero
 
-                    string stringavuota = "";
+                 string stringavuota = "";
 
-                    int numeroStringa = stringavuota.Length;
-                    Console.WriteLine("stringavuota :", stringavuota + "\n");
+                int numeroStringa = stringavuota.Length;
+                Console.WriteLine("stringavuota :", stringavuota + "\n");
 
-                //4) Indexing : andare a prendere un carattere da un stringa in base al suo indice 
+            //4) Indexing : andare a prendere un carattere da un stringa in base al suo indice 
 
-                    Console.WriteLine("nome[0] :", nome[0] + "\n");
-                    // Ricorda che l'ultimo carattere della stringa sara sempre = a stringa.Lenght -1 
-                    // il primo elemento di una stringa e 0 
+                Console.WriteLine("nome[0] :", nome[0] + "\n");
+                // Ricorda che l'ultimo carattere della stringa sara sempre = a stringa.Lenght -1 
+                // il primo elemento di una stringa e 0 
 
-                //5) IndexOf : ricorca uno o piu caratteri nella stringa e ritorna la sua posizione 
+            //5) IndexOf : ricorca uno o piu caratteri nella stringa e ritorna la sua posizione 
 
-                 Console.WriteLine("nome.IndexOf(\"c\") :", nome.IndexOf("c") + "\n");
+             Console.WriteLine("nome.IndexOf(\"c\") :", nome.IndexOf("c") + "\n");
 
 
-                //6) Substring : taglia la stringa e ne prende la parte dopo l'indice specificato 
+            //6) Substring : taglia la stringa e ne prende la parte dopo l'indice specificato 
 
-                    Console.WriteLine("nome.Substring(2) :", nome.Substring(2) + "\n");
+                Console.WriteLine("nome.Substring(2) :", nome.Substring(2) + "\n");
 
-                    //Per sottrare partendo dalla fine ci basta dare come primo parametro la stringa.lenght e -3 (il punto fino a cui dobbiamo prendere) 
+                //Per sottrare partendo dalla fine ci basta dare come primo parametro la stringa.lenght e -3 (il punto fino a cui dobbiamo prendere) 
 
-                    Console.WriteLine("nome.Substring(2) :", nome.Substring(nome.Length - 3 ) + "\n");
+                Console.WriteLine("nome.Substring(2) :", nome.Substring(nome.Length - 3 ) + "\n");
 
 
 
