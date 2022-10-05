@@ -77,8 +77,6 @@ namespace _06_LavorareConStringhe // Note: actual namespace depends on the proje
                 Console.WriteLine("nome.Substring(2) :", nome.Substring(nome.Length - 3 ) + "\n");
 
 
-
-
         }
     }
 }

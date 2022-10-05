@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj": {}
+    "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj": {}
   },
   "projects": {
-    "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj": {
+    "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
+        "projectUniqueName": "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
         "projectName": "studyCSharp",
-        "projectPath": "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
+        "projectPath": "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
         "packagesPath": "C:\\Users\\salvo\\.nuget\\packages\\",
-        "outputPath": "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\obj\\",
+        "outputPath": "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
