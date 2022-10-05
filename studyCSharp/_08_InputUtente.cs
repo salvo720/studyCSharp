@@ -3,14 +3,24 @@
 using Microsoft.VisualBasic;
 using System;
 
-namespace _08_InputUtente // Note: actual namespace depends on the project name.
+namespace studyCSharp // Note: actual namespace depends on the project name.
 {
     internal class _08_InputUtente
     {
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Math.Sqrt(16) :", Math.Sqrt(16) + "\n");
+            Console.WriteLine("Inserisci il numero 1 : ");
+            string numero1 = Console.ReadLine(); /// legge la linea e va accapo 
+            Console.WriteLine("Inserisci il numero 2 : ");
+            string numero2 = Console.ReadLine(); /// legge la linea e va accapo 
+
+            int num1 = int.Parse(numero1);
+            int num2 = int.Parse(numero1);
+
+            int risultato = num1 + num2;
+
+            Console.ReadLine(); // messo alla fine evita la chiusura del terminale 
         }
     }
 }
