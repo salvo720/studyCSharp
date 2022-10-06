@@ -7,7 +7,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 {
     internal class _08_InputUtente
     {
-        static void Main(string[] args)
+        public static void function_08_InputUtente()
         {
 
             Console.WriteLine("Inserisci il numero 1 : ");
@@ -19,6 +19,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             int num2 = int.Parse(numero1);
 
             int risultato = num1 + num2;
+            Console.WriteLine("il risultato e : " + risultato);
 
             Console.ReadLine(); // messo alla fine evita la chiusura del terminale 
         }

@@ -3,11 +3,11 @@
 using Microsoft.VisualBasic;
 using System;
 
-namespace _04_TipiDiDati // Note: actual namespace depends on the project name.
+namespace studyCSharp // Note: actual namespace depends on the project name.
 {
     internal class _04_TipiDiDati
     {
-        static void Main(string[] args)
+        public static void function_04_TipiDiDati()
         {
             string testo = "jasjdajkkdjka ajsdjajsdjasdj"; //stringa 
             char carattere = 'a'; //char 
@@ -32,4 +32,3 @@ namespace _04_TipiDiDati // Note: actual namespace depends on the project name.
         }
     }
 }
-

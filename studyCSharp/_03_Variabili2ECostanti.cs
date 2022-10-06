@@ -1,10 +1,10 @@
 ﻿using System;
 
-public class _03_VariabiliECostanti
+namespace studyCSharp
 {
-    public _03_VariabiliECostanti()
+    internal class _03_VariabiliECostanti
     {
-        static void Main(string[] args)
+        public static void function_03_VariabiliECostanti()
         {
             //inizializzazione
             string nome1 = "Luca";
@@ -21,9 +21,6 @@ public class _03_VariabiliECostanti
             int eta = 18;
 
 
-
-
-
             Console.WriteLine("Ciao io sono" + nome);
             Console.WriteLine("Ho " + eta + " anni");
             Console.WriteLine(nome + " e il mio primo nome ");
@@ -36,3 +33,8 @@ public class _03_VariabiliECostanti
         }
     }
 }
+
+
+
+
+

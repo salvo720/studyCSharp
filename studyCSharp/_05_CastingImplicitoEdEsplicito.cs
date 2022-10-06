@@ -3,11 +3,11 @@
 using Microsoft.VisualBasic;
 using System;
 
-namespace _05_CastingImplicitoEdEsplicito // Note: actual namespace depends on the project name.
+namespace studyCSharp // Note: actual namespace depends on the project name.
 {
     internal class _05_CastingImplicitoEdEsplicito
     {
-        static void Main(string[] args)
+        public static void function_05_CastingImplicitoEdEsplicito()
         {
             //Casting :
             //1) impicito : c# consente di passare va un tipo piu piccolo ad uno piu grande , ad esempio da int a long , da int a float ,
