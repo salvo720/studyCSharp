@@ -10,7 +10,29 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
     {
         public static void function_13_CostruttoSwitchCase()
         {
-          
+
+            int eta = 18;
+            string nome = "Luca";
+
+            switch (eta)
+            {
+                case 18:
+                    if (nome=="Luca")
+                    {
+                        Console.WriteLine(nome + " sei maggiorenne 18");
+                    }
+                    break;
+                case 20:
+                    Console.WriteLine("sei un ventenne");
+                    break;
+                case 30:
+                    Console.WriteLine("la vecchiaia avanza");
+                    break;
+                default:
+                    Console.WriteLine("la tua eta non e tra i casi previsti");
+                    break;
+            }
+
         }
     }
 }

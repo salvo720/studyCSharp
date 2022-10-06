@@ -58,7 +58,18 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_13_CostruttoSwitchCase : ");
            _13_CostruttoSwitchCase.function_13_CostruttoSwitchCase();
 
-            
+            Console.WriteLine("");
+            Console.WriteLine("_14_CicloWhileEDoWhile : ");
+            _14_CicloWhileEDoWhile.function_14_CicloWhileEDoWhile();
+
+            Console.WriteLine("");
+            Console.WriteLine("_15_CicloForEForeach : ");
+            _15_CicloForEForeach.function_15_CicloForEForeach();
+
+
+
+
+
 
 
 
