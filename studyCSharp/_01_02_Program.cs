@@ -85,7 +85,14 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_19_ArraySpiegati : ");
             _19_ArraySpiegati.function_19_ArraySpiegati();
 
+            Console.WriteLine("");
+            Console.WriteLine("_20_ArrayMultidimensionali2d3d : ");
+            _20_ArrayMultidimensionali2d3d.function_20_ArrayMultidimensionali2d3d();
+
             
+
+
+
 
 
 
