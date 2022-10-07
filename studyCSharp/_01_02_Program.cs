@@ -11,7 +11,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_01_02_Program : ");
             Console.WriteLine("Hello World!");
             //// Console.Read(); ci consente di mantenere  il programma in esecuzione perche aspetta un input dell'utente 
-            Console.Read();
+            //Console.Read();
 
             Console.WriteLine("");
             Console.WriteLine("_03_VariabiliECostanti : ");
@@ -34,21 +34,24 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_07_LavorareConINumeri : ");
             _07_LavorareConINumeri.function_07_LavorareConINumeri();
 
-            Console.WriteLine("");
-            Console.WriteLine("_08_InputUtente : ");
-            _08_InputUtente.function_08_InputUtente();
+            //disattivato perche richiede imput 
+            //Console.WriteLine("");
+            //Console.WriteLine("_08_InputUtente : ");
+            //_08_InputUtente.function_08_InputUtente();
 
-            Console.WriteLine("");
-            Console.WriteLine("_09_OperatoriLogiciEDiComparazione : ");
-            _09_OperatoriLogiciEDiComparazione.function_09_OperatoriLogiciEDiComparazione();
+            //disattivato perche richiede imput 
+            //Console.WriteLine("");
+            //Console.WriteLine("_09_OperatoriLogiciEDiComparazione : ");
+            //_09_OperatoriLogiciEDiComparazione.function_09_OperatoriLogiciEDiComparazione();
 
             Console.WriteLine("");
             Console.WriteLine("_10_OperatoriLogiciEDiComparazione : ");
             _10_OperatoriLogiciEDiComparazione.function_10_OperatoriLogiciEDiComparazione();
 
-            Console.WriteLine("");
-            Console.WriteLine("_11_IfElse : ");
-            _11_IfElse.function_11_IfElse();
+            //disattivato perche richiede imput 
+            //Console.WriteLine("");
+            //Console.WriteLine("_11_IfElse : ");
+            //_11_IfElse.function_11_IfElse();
 
             Console.WriteLine("");
             Console.WriteLine("_12_OperatoreTernario : ");
@@ -66,8 +69,23 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_15_CicloForEForeach : ");
             _15_CicloForEForeach.function_15_CicloForEForeach();
 
+            Console.WriteLine("");
+            Console.WriteLine("_16_BreakEContinueNeiCicli : ");
+            _16_BreakEContinueNeiCicli.function_16_BreakEContinueNeiCicli();
 
+            Console.WriteLine("");
+            Console.WriteLine("_17_SovracccaricoDeiMetodiMethodOverloading : ");
+            _17_CosaSonoIMetodiParametriEReturn.function_17_CosaSonoIMetodiParametriEReturn();
 
+            Console.WriteLine("");
+            Console.WriteLine("_18_SovracccaricoDeiMetodiMethodOverloading : ");
+            _18_SovracccaricoDeiMetodiMethodOverloading.function_18_SovracccaricoDeiMetodiMethodOverloading();
+
+            Console.WriteLine("");
+            Console.WriteLine("_19_ArraySpiegati : ");
+            _19_ArraySpiegati.function_19_ArraySpiegati();
+
+            
 
 
 

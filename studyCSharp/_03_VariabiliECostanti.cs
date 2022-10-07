@@ -27,7 +27,7 @@ namespace studyCSharp
 
             Console.WriteLine("sono nato il 25 novembre ");
             // Console.Read(); ci consente di mantenere  il programma in esecuzione perche aspetta un input dell'utente 
-            Console.Read();
+            //Console.Read();
 
 
         }
