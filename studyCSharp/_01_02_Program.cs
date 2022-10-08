@@ -97,11 +97,9 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_22_LeArraylist : ");
             _22_LeArraylist.function_22_LeArraylist();
 
-
-
-
-
-
+            Console.WriteLine("");
+            Console.WriteLine("_23_LeList : ");
+            _23_LeList.function_23_LeList();
 
 
 
