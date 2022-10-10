@@ -105,6 +105,19 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_24_LeHashtable : ");
             _24_LeHashtable.function_24_LeHashtable();
 
+            Console.WriteLine("");
+            Console.WriteLine("_25_LeDictionary : ");
+            _25_LeDictionary.function_25_LeDictionary();
+
+            Console.WriteLine("");
+            Console.WriteLine("_26_LeStack : ");
+            _26_LeStack.function_26_LeStack();
+
+            Console.WriteLine("");
+            Console.WriteLine("_27_LeQueue : ");
+            _27_LeQueue.function_27_LeQueue();
+
+
 
 
 
