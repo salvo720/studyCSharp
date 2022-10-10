@@ -117,7 +117,17 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_27_LeQueue : ");
             _27_LeQueue.function_27_LeQueue();
 
+            Console.WriteLine("");
+            Console.WriteLine("_28_ProgrammazioneAdOggettiOOP : ");
+            _28_ProgrammazioneAdOggettiOOP.function_28_ProgrammazioneAdOggettiOOP();
 
+            Console.WriteLine("");
+            Console.WriteLine("_29_CostruttoreDellaClasse : ");
+            _29_CostruttoreDellaClasse.function_29_CostruttoreDellaClasse();
+
+            Console.WriteLine("");
+            Console.WriteLine("_30_GettersESetters : ");
+            _30_GettersESetters.function_30_GettersESetters();
 
 
 
