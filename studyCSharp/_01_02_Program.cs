@@ -134,6 +134,11 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             _31_ParolaChiaveStatic.function_31_ParolaChiaveStatic();
 
 
+            Console.WriteLine("");
+            Console.WriteLine("_32_Ereditarieta : ");
+            _32_Ereditarieta.function_32_Ereditarieta();
+
+
 
         }
     }

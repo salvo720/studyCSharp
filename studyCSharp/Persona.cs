@@ -11,6 +11,7 @@ namespace studyCSharp
         private string nome;
         public string cognome;
         private int eta;
+        public static int numeroPersone = 0;
 
         //construttore
         public Persona(string nome, string cognome, int eta)
@@ -18,6 +19,9 @@ namespace studyCSharp
             this.nome = nome;
             this.cognome = cognome;
             this.eta = eta;
+            //fai attenzione all'accesso a numeroPersona , preceduto dalla classe Persona e non this 
+            Persona.numeroPersone++;
+            Console.WriteLine("Persona.numeroPersone : " + Persona.numeroPersone);
         }
         public Persona(string cognome, int eta)
         {
@@ -75,8 +79,16 @@ namespace studyCSharp
         {
             // this : usare la parola chiave this all'interno di una classe fa in modo che la variaible a cui si fa riferimento
             // e quella della classe e non quella passata nella funzione 
+            //Console.WriteLine($"Ciao sono nome : {nome}");
+            //Console.WriteLine($"Ciao sono this.nome : {this.nome}");
+            Console.WriteLine("Saluta() : ciao sono una persona ");
+        }
+
+
+        public static void Saluta2(string nome = "nomefunzione")
+        {
+          
             Console.WriteLine($"Ciao sono nome : {nome}");
-            Console.WriteLine($"Ciao sono this.nome : {this.nome}");
         }
     }
 }
