@@ -129,6 +129,10 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_30_GettersESetters : ");
             _30_GettersESetters.function_30_GettersESetters();
 
+            Console.WriteLine("");
+            Console.WriteLine("_31_ParolaChiaveStatic : ");
+            _31_ParolaChiaveStatic.function_31_ParolaChiaveStatic();
+
 
 
         }
