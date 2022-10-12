@@ -87,8 +87,21 @@ namespace studyCSharp
 
         public static void Saluta2(string nome = "nomefunzione")
         {
-          
             Console.WriteLine($"Ciao sono nome : {nome}");
+        }
+
+        private void Cucina()
+        {
+            Console.WriteLine();
+        }
+        protected void Respira()
+        {
+            Console.WriteLine();
+        }
+
+        internal void Balla()
+        {
+            Console.WriteLine();
         }
     }
 }

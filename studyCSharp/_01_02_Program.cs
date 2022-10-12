@@ -153,6 +153,21 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("");
             Console.WriteLine("_36_ClassiAstratte : ");
             _36_ClassiAstratte.function_36_ClassiAstratte();
+
+            Console.WriteLine("");
+            Console.WriteLine("_37_ModificatoriDiAccesso : ");
+            _37_ModificatoriDiAccesso.function_37_ModificatoriDiAccesso();
+
+            Console.WriteLine("");
+            Console.WriteLine("_38_GliEnumeratori : ");
+            _38_GliEnumeratori.function_38_GliEnumeratori();
+
+            Console.WriteLine("");
+            Console.WriteLine("_39_LavorareConLeDate : ");
+            _39_LavorareConLeDate.function_39_LavorareConLeDate();
+
+
+
         }
     }
 }

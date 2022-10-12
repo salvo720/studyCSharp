@@ -34,5 +34,13 @@ namespace studyCSharp
         {
             return this.classe == studente.classe;
         }
+
+        public void test()
+        {
+            base.Saluta(); // public
+            base.Respira(); // protected 
+            //base.Cucina(); // private
+            base.Balla(); // internal 
+        }
     }
 }
