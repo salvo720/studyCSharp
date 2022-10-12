@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace studyCSharp
 {
     // nota dopo insegnate (Studente: Persona , i due punti dopo una classe indicano che ne sta estendendo un altra , la classe dopo i : e la classe che estendiamo )
-    internal class Studente: Persona 
+
+    // estendere interfacce in una classe  : virgola dopo  il nome di una classe indica che estende un interfaccia 
+    internal class Studente: Persona , IEquatable<Studente>
     {
         public string classe;
 
@@ -21,6 +23,16 @@ namespace studyCSharp
         public void Studia() 
         {
         
+        }
+
+        public override void Saluta()
+        {
+            Console.WriteLine("Studente.Saluta() : Buongiorno prof!!!!!!");
+        }
+
+        public bool Equals(Studente studente)
+        {
+            return this.classe == studente.classe;
         }
     }
 }

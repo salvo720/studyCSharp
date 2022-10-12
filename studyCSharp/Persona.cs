@@ -75,13 +75,13 @@ namespace studyCSharp
         public string Nome { get; set; }
 
 
-        public void Saluta(string nome = "nomefunzione")
+        public virtual void Saluta()
         {
             // this : usare la parola chiave this all'interno di una classe fa in modo che la variaible a cui si fa riferimento
             // e quella della classe e non quella passata nella funzione 
             //Console.WriteLine($"Ciao sono nome : {nome}");
             //Console.WriteLine($"Ciao sono this.nome : {this.nome}");
-            Console.WriteLine("Saluta() : ciao sono una persona ");
+            Console.WriteLine("Persona:Saluta() : ciao sono una persona ");
         }
 
 

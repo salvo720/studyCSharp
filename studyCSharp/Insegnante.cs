@@ -22,5 +22,12 @@ namespace studyCSharp
         {
 
         }
+
+        //public sealed override void Saluta()
+        public new void Saluta()
+        {
+            //base.Saluta(); //andiamo a riprende ed eseguire il metodo di cui eseguiamo l'override 
+            Console.WriteLine("Insegnante.Saluta() : Buongiorno Ragazzi !!!!! ");
+        }
     }
 }

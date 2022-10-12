@@ -138,8 +138,21 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Console.WriteLine("_32_Ereditarieta : ");
             _32_Ereditarieta.function_32_Ereditarieta();
 
+            Console.WriteLine("");
+            Console.WriteLine("_33_ParoleVirtualOverrideSealed : ");
+            _33_ParoleVirtualOverrideSealed.function_33_ParoleVirtualOverrideSealed();
 
+            Console.WriteLine("");
+            Console.WriteLine("_34_LeInterfacce : ");
+            _34_LeInterfacce.function_34_LeInterfacce();
 
+            Console.WriteLine("");
+            Console.WriteLine("_35_IlPolimorfismo : ");
+            _35_IlPolimorfismo.function_35_IlPolimorfismo();
+
+            Console.WriteLine("");
+            Console.WriteLine("_36_ClassiAstratte : ");
+            _36_ClassiAstratte.function_36_ClassiAstratte();
         }
     }
 }
