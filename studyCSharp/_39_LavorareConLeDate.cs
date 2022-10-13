@@ -38,6 +38,11 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             DateTime data2 = new DateTime(2021, 2, 10);
             Console.WriteLine("data1.Subtract(data2) ( DateTime(2021, 10, 10, 12, 39, 45); )  : " + data1.Subtract(data2)); // aggiunge 2 anni alla data attuale e prende il giorno della settimana 
+            Console.WriteLine("data1.ToString(\"D\") ( DateTime(2021, 10, 10, 12, 39, 45); )  : " + data1.ToString("D")); // 
+            Console.WriteLine("data1.ToString(\"f\") ( DateTime(2021, 10, 10, 12, 39, 45); )  : " + data1.ToString("f")); // 
+            Console.WriteLine("data1.ToString(\"F\") ( DateTime(2021, 10, 10, 12, 39, 45); )  : " + data1.ToString("F")); // 
+            Console.WriteLine("data1.ToString(\"u\") ( DateTime(2021, 10, 10, 12, 39, 45); )  : " + data1.ToString("u")); // la Z alla fine della data indica che e un universal time zone (utc)
+            Console.WriteLine("data1.ToString(\"dddd , dD ,MMMM\") ( DateTime(2021, 10, 10, 12, 39, 45); )  : " + data1.ToString("dddd , dD ,MMMM")); // combinati 
 
 
             // DateTime:

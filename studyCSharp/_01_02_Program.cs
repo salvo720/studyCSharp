@@ -167,6 +167,11 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             _39_LavorareConLeDate.function_39_LavorareConLeDate();
 
 
+            Console.WriteLine("");
+            Console.WriteLine("_40_Nullable : ");
+            _40_Nullable.function_40_Nullable();
+
+
 
         }
     }
