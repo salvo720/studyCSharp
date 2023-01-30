@@ -180,7 +180,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
 // le funzione locali non possono includere modificatori di classe come public o protecded
 
-// i namespace sono come i package di java , quindi i namespace raggruno del codice andando a dare una struttura al nostro progetto
+// i namespace sono come i package di java , quindi i namespace raggrupano del codice andando a dare una struttura al nostro progetto
 
 // c# e un linguaggio orientato agli oggetti 
 

@@ -19,7 +19,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             // Override : override si assegna al metodo quando lo andiamo a sovrascrivere , ( metodo che abbia usato virtual )
             // Sealed : indica chiuso , non apribile , viene applicato ad un metodo che effettua l'override ,
             // e indica che da quel punto in poi (se la classe ne estende un altra o erdita quel metdo ) , non potra piu sovrascrivere quel metodo  .
-            //se applcihiamo seal ad una classe non avra classi derivate 
+            // se applcihiamo seal ad una classe non avra classi derivate 
 
             Studente studente1 = new Studente("Luca","Rossi",20,"4A");
             studente1.Saluta();

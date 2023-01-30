@@ -13,9 +13,9 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             //Regola generale per quando usare for e while :
             //1)for : il for va usato quando conosciamo quante interazione andranno fatte 
-            //2)while : il for va usato quando non conosciamo quante interazione andranno fatte 
+            //2)while : il while va usato quando non conosciamo quante interazione andranno fatte 
 
-            // la i all'interno del for ha block scope , quindi non possiamo usarala all'esterno 
+            // la i all'interno del for ha blockscope all'interno del for  , quindi non possiamo usarala all'esterno 
             Console.WriteLine("for : ");
             for (int i=0;i<5;i++)
             {
@@ -24,7 +24,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             int j = 0;
             int a = 2;
-            //la j prima del while e una variabile normale con blockscope che e la funzione quindi possiamo usarla anche all'esterno 
+            //la j prima del while e una variabile normale con blockscope della funzione quindi possiamo usarla anche nella funzione  
             Console.WriteLine("while : ");
             while (j<a)
             {

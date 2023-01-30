@@ -11,7 +11,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
         public static void function_21_ArrayIrregolariJagged()
         {
             //Array Irregolari : sono array che contegono altri array di dimensione variabile o irregolare 
-            // gli array irregolri sono array di array 
+            // gli array irregolari sono array di array 
 
             // sintassi lunga 
             int[][] arrayIrregolare = new int[4][];

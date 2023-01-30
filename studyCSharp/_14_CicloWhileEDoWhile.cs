@@ -41,8 +41,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             // La differenza tra while e do while (guarda i due cicli con j e j1) :
             // 1) il while verifica la condizione prima di eseguire il codice del loop
-            // 2) il dowhile esegue prima il codice  del loop e dopo verifica la condizione , 
-            // 
+            // 2) il dowhile esegue prima il codice  del loop e dopo verifica la condizione , andando ad eseguire il codice del ciclo sempre almeno 1 volta 
         }
     }
 }

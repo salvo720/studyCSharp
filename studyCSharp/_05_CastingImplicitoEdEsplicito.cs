@@ -13,7 +13,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             //1) impicito : c# consente di passare va un tipo piu piccolo ad uno piu grande , ad esempio da int a long , da int a float ,
             // ma non consente ad un tipo piu grande di diventare piu piccolo 
             int numero1 = 10;
-            int lungo = numero1;
+            long lungo = numero1;
 
             //2) esplicito : viene usato per passare da un tipo piu grande ad uno piu piccolo , ad esempio da float a int 
             float fluttuante = 10.2598F;

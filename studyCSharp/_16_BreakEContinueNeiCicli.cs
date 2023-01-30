@@ -10,7 +10,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
     {
         public static void function_16_BreakEContinueNeiCicli()
         {
-            Console.WriteLine("i == 1 continue : "); // continue fara andara il ciclo al prossimo elementi senza eseguire il codice del for per qull'eleemnto 
+            Console.WriteLine("i == 1 continue : "); // continue fara andara il ciclo al prossimo elementi senza eseguire il codice del for per qull'elemento 
             Console.WriteLine("i == 3 break : "); // break fermera l'esezione del for facendolo uscire 
            
             for (int i = 0; i < 5; i++)

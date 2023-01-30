@@ -22,7 +22,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             //le List : sono il contrario delle Arraylist
             //Array : finiti elemeneti , e si tipo dato coerente
-            //ArrayList :  infiniti elementi , che possiamo rimuovere e aggiungere , e si tipo dato coerente  ( esempio :string e int insieme )
+            //ArrayList :  infiniti elementi , che possiamo rimuovere e aggiungere , e no tipo dato coerente  ( esempio :string e int insieme )
             //le List :  infiniti elementi , che possiamo rimuovere e aggiungere , e no tipo dato coerente  ( esempio : solo string , solo int )
             int[] arrayInteri = { 10, 20, 30 };
             string[] arrayString = { "testo1", "testo2", "testo3" };

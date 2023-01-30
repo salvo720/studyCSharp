@@ -30,7 +30,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             // for con gli array multidimensioni per avere accesso agli indici (riga e colonna)
 
-            //codici.GetLength() = punta alla dimensione dell'array ( codici = new string[3,2] )
+            // codici.GetLength() = punta alla dimensione dell'array ( codici = new string[3,2] )
             // codici.GetLength(0) = accede alla prima dimensione dell'array codice che ha lunghezza 3 ;
             // codici.GetLength(1) = accede alla seconda dimensione dell'array codice che ha lunghezza 2 ;
             Console.WriteLine("for array 2d ");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
+      "projectUniqueName": "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
       "projectName": "studyCSharp",
-      "projectPath": "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
+      "projectPath": "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\studyCSharp.csproj",
       "packagesPath": "C:\\Users\\salvo\\.nuget\\packages\\",
-      "outputPath": "D:\\Ampps\\www\\studyCSharp\\studyCSharp\\obj\\",
+      "outputPath": "d:\\Ampps\\www\\studyCSharp\\studyCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

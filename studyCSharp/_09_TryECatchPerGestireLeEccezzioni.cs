@@ -34,7 +34,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             finally
             {
                 //il blocco di finaly viene eseguito sempre dopo il catch , anche se avvengono eccezioni 
-                Console.WriteLine("il lo scrivo a prescindere ");
+                Console.WriteLine("lo scrivo a prescindere ");
             }
                 Console.WriteLine("num1 + 2 : ");
                 Console.WriteLine( num1 + 2);

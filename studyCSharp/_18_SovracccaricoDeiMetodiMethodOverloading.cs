@@ -10,7 +10,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
     {
         public static void function_18_SovracccaricoDeiMetodiMethodOverloading()
         {
-            //Method overloading / sovraccarico  
+            // Method overloading / sovraccarico 
             // Method Overloading : il method overloading e la possibilita di avere piu metodi con lo stesso nome , ma con signature ( firma ) diversa ,
             // ovvero con differenti paramentri ( tipo dei paramentri ) o quantita di parametri , e andra a richiamara quello giusto in base al tipo dei parametri o quantita  
 

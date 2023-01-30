@@ -20,8 +20,6 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
 
             int operazionimatematiche = ((5 + 6) * 29) / ( 33 - 22);
 
-            // fermo a 3 e 30 
-
             int test = a++;
 
             //esegue test = 5 e ++ lo esegue dopo 

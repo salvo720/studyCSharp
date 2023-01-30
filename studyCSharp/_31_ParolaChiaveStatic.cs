@@ -38,7 +38,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             Persona.Saluta2("Marco");
 
             // 3) classe static : la classe statica non puo essere instanziata , e uno strumento a cui possiamo accedere 
-            // quindi il nostro obbiettivo e quello di accedere ai metodi senza andare ad isntanziare la classe 
+            // quindi il nostro obbiettivo e quello di accedere ai metodi senza andare ad istanziare la classe 
 
 
 

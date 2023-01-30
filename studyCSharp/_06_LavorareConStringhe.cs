@@ -63,7 +63,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
             // Ricorda che l'ultimo carattere della stringa sara sempre = a stringa.Lenght -1 
             // il primo elemento di una stringa e 0 
 
-            //5) IndexOf : ricorca uno o piu caratteri nella stringa e ritorna la sua posizione 
+            //5) IndexOf : ricerca uno o piu caratteri nella stringa e ritorna la sua posizione 
 
             Console.WriteLine("nome.IndexOf(\"c\") : "+ nome.IndexOf("c") + "\n");
 

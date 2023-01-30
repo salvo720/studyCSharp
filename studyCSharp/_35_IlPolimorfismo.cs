@@ -30,7 +30,7 @@ namespace studyCSharp // Note: actual namespace depends on the project name.
                 persona.Saluta();
             }
 
-            //new : la parola chaive new usata su un metodo indica di non sovrascrivere il precedente delle classe madre ma di averne un altro che sara richiamato per quel caso specifico 
+            //new : la parola chiave new usata su un metodo indica di non sovrascrivere il precedente delle classe madre ma di averne un altro che sara richiamato per quel caso specifico 
             // la diffenrenza tra new e override : override sovrascrive il metodo della classe madre , new ne crea un altro che sara richiamato quando si chiama il metodo dalla nuova classe ,
             // se chiamiamo il metodo dalla vecchia classe verra usato il metodo originale 
 
